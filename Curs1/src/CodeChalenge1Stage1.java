@@ -6,6 +6,9 @@ public class CodeChalenge1Stage1 {
         String b="Fizz";
         String c="Buzz";
 
+
+        float o=1;
+
         for(int number=1;number<=100;number++) {
 
             if (!((number % 5 == 0) || (number % 3 == 0) )) {
