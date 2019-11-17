@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea74540a-99e0-488c-9399-5c42d1d0d388" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Curs1/src/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfism/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfism/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfism/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechallemge/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechallemge/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechallemge/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechallemge/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechallemge/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codechallemge/TestAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopConcepts/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopConcepts/InitializationOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopConcepts/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/Bottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/Clidlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/DogShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/Hawk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/MultiInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/Redwood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/SubSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/Tenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ootest/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgA/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgB/Baz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Curs1/src/CodeChalenge1Stage1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Curs1/src/CodeChalenge1Stage1.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\AtelierulGOOGLE\AtelierulGOOGLEjava\Curs3\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TTiKDo97hChqT7iizPL7EMILXy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SubSubClass">
+    <configuration name="Baz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkgB.Baz" />
+      <module name="Curs3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ootest.MultiInt" />
+      <module name="Curs3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ootest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ootest.SubSubClass" />
+      <module name="Curs3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ootest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tenor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ootest.Tenor" />
+      <module name="Curs3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ootest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooKeeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ootest.ZooKeeper" />
+      <module name="Curs3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ootest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubSubClass" />
+        <item itemvalue="Application.Baz" />
+        <item itemvalue="Application.MultiInt" />
+        <item itemvalue="Application.ZooKeeper" />
+        <item itemvalue="Application.Tenor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea74540a-99e0-488c-9399-5c42d1d0d388" name="Default Changelist" comment="" />
+      <created>1573490419805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573490419805</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
